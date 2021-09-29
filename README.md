@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gasanmon
-- 👀 I’m interestedin  aprender Lengua de Señas
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 Aprendiendo Lengua de Señas
+- 🌱 Ando en une onda
+- 💞️ 
 
 <h3 align = "center"> Me gusta viajar, rodar en bici y una buena conversación :balloon: </h3>
 
