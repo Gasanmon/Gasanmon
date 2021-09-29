@@ -28,3 +28,5 @@
 <p> <a href="https://www.buymeacoffee.com/Gasanmon"> <img align = "left" src = "https: // cdn .buymeacoffee.com / buttons / v2 / default-yellow.png "height =" 50 "width =" 210 "alt =" Gasanmon "/> </a> </p> <br> <br>
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=gasanmon&show_icons=true&locale=en&layout=compact" alt = "gasanmon" /> </p>
+
+![image](https://user-images.githubusercontent.com/91491595/135310565-0c69cd20-4abb-46c6-9959-f8f5dd8975f6.png)
