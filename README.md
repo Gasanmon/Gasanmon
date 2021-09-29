@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
-<h3 align = "center"> Me gusta viajar y la buena comida </h3>
+<h3 align = "center"> Me gusta viajar, rodar en bici y una buena conversación :balloon: </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gasanmon&label=Profile%20views&color=0e75b6&style=flat" alt = "gasanmon" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🔭 Estudiante [de ingeniería ambiental] (https://universidadean.edu.co / programas / carreras-profesionales / carrera-de-ingenieria-ambiental)
 
-- Estoy aprendiendo ** Lengua de Selas Colombiana **
+- Estoy aprendiendo ** Lengua de Señas Colombiana ** 
 
-- 👯 Lider de un grupo universitario ** Freands **
+- 👯 Lider de  grupo universitario ** FREANDS ** :full_moon_with_face:
 
 <h3 align = "left"> Conéctate conmigo : </h3>
 <p align = "left">
